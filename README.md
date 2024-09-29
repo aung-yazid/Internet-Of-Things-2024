@@ -1,4 +1,4 @@
-# Embedded-System
+# Internet-System
 Repositori ini untuk resume praktikum Embedded System Laboratorium Workshop 
 --------------------------------------------------------------------------
 
@@ -8,11 +8,8 @@ Software dan tools yang dipakai :
 2. Tinkercad : https://www.tinkercad.com/
 3. Fritzing : https://drive.google.com/file/d/1l6UaxukCWw0-Y5K165-yNA_SZHLj-0Pl/view?usp=sharing
 4. Node JS LTS : https://nodejs.org/en/
-5. Serial Bluetooth Terminal : https://play.google.com/store/search?q=serial+bluetooth+terminal (Smartphone)
-6. RoboRemoDemo : https://play.google.com/store/apps/details?id=com.hardcodedjoy.roboremofree (Smartphone)
-7. Esp8266 : https://arduino.esp8266.com/stable/package_esp8266com_index.json (salin pada preference software Arduino IDE lalu download pada Board Manager)
-8. Driver CH340 : https://sparks.gogo.co.nz/ch340.html
-
+5. Esp8266 : https://arduino.esp8266.com/stable/package_esp8266com_index.json (salin pada preference software Arduino IDE lalu download pada Board Manager)
+6. Wokwi Simulation : https://wokwi.com/
 
 Video Pembelajaran :
 --------------------
